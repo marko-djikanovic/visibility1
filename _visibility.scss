@@ -1,0 +1,220 @@
+/**** VISIBILITY STYLES *******/
+
+.hidden {
+    visibility: hidden;
+}
+.hidden-i {
+    visibility: hidden !important;
+}
+.visible {
+    visibility: visible;
+}
+.visible-i {
+    visibility: visible !important;
+}
+
+/*** OVERWLOW *****/
+
+.overflow-auto, .overflow-a {
+    overflow: auto;
+}
+.overflow-auto-i, .overflow-a-i {
+    overflow: auto !important;
+}
+.overflow-scrool, .overflow-s {
+    overflow:scroll;
+}
+.overflow-scrool-i, .overflow-s-i {
+    overflow:scroll !important;
+}
+.overflow-x-hidden, .overflow-x-h {
+    overflow-x:hidden;
+}
+.overflow-x-hidden-i, .overflow-x-h-i {
+    overflow-x:hidden !important;
+}
+.overflow-x-auto, .overflow-x-a {
+    overflow-x:scroll;
+}
+.overflow-x-auto-i, .overflow-x-a-i {
+    overflow-x:scroll !important;
+}
+.overflow-x-scroll, .overflow-x-s {
+    overflow-x: scroll;
+}
+.overflow-x-scroll-i, .overflow-x-s-i {
+    overflow-x: scroll !important;
+}
+.overflow-y-hidden, .overflow-y-h {
+    overflow-y:hidden;
+}
+.overflow-y-hidden-i, .overflow-y-h-i {
+    overflow-y: hidden !important;
+}
+.overflow-y-auto, .overflow-y-a {
+    overflow-y:auto;
+}
+.overflow-y-auto-i, .overflow-y-a-i {
+    overflow-y:auto !important;
+}
+.overflow-y-scroll, .overflow-y-s {
+    overflow-y:scroll;
+}
+.overflow-y-scroll-i, .overflow-y-s-i {
+    overflow-y:scroll !important;
+}
+
+/**** OPACITY ******/
+
+.opacity-0, .opacity-00, .opacity-0perc, .opacity-0-perc{
+    opacity:0;
+}
+.opacity-0-i, .opacity-00-i, .opacity-0perc-i, .opacity-0-perc-i{
+    opacity:0 !important;
+}
+.opacity-10, .opacity-01, .opacity-10perc, .opacity-10-perc {
+    opacity: 0.1;
+}
+.opacity-10-i, .opacity-01-i, .opacity-10perc-i, .opacity-10-perc-i {
+    opacity: 0.1 !important;
+}
+.opacity-20, .opacity-02, .opacity-20perc, .opacity-20-perc {
+    opacity: 0.2;
+}
+.opacity-20-i, .opacity-02-i, .opacity-20perc-i, .opacity-20-perc-i {
+    opacity: 0.2 !important;
+}
+.opacity-30, .opacity-03, .opacity-30perc, .opacity-30-perc {
+    opacity:0.3;
+}
+.opacity-30-i, .opacity-03-i, .opacity-30perc-i, .opacity-30-perc-i {
+    opacity:0.3 !important;
+}
+.opacity-40, .opacity-04, .opacity-40perc, .opacity-40-perc {
+    opacity: 0.4;
+  }
+  .opacity-40-i, .opacity-04-i, .opacity-40perc-i, .opacity-40-perc-i {
+    opacity: 0.4 !important;
+  }
+  
+  .opacity-50, .opacity-05, .opacity-50perc, .opacity-50-perc {
+    opacity: 0.5;
+  }
+  .opacity-50-i, .opacity-05-i, .opacity-50perc-i, .opacity-50-perc-i {
+    opacity: 0.5 !important;
+  }
+  
+  .opacity-60, .opacity-06, .opacity-60perc, .opacity-60-perc {
+    opacity: 0.6;
+  }
+  .opacity-60-i, .opacity-06-i, .opacity-60perc-i, .opacity-60-perc-i {
+    opacity: 0.6 !important;
+  }
+  .opacity-70, .opacity-07, .opacity-70perc, .opacity-70-perc {
+    opacity: 0.7;
+  }
+  .opacity-70-i, .opacity-07-i, .opacity-70perc-i, .opacity-70-perc-i {
+    opacity: 0.7 !important;
+  }
+  
+  .opacity-80, .opacity-08, .opacity-80perc, .opacity-80-perc {
+    opacity: 0.8;
+  }
+  .opacity-80-i, .opacity-08-i, .opacity-80perc-i, .opacity-80-perc-i {
+    opacity: 0.8 !important;
+  }
+  
+  .opacity-90, .opacity-09, .opacity-90perc, .opacity-90-perc {
+    opacity: 0.9;
+  }
+  .opacity-90-i, .opacity-09perc-i, .opacity-100-perc-i {
+    opacity: 0.9 !important;
+  }
+  
+  .opacity-1, .opacity-100perc, .opacity-100-perc {
+    opacity: 1;
+  }
+  .opacity-1-i, .opacity-100perc-i, .opacity-100-perc-i {
+    opacity: 1 !important;
+  }
+
+  /***** Z-INDEX *****/
+
+  .z-min-1, .z-index-min-1 {
+      z-index:-1;
+  }
+  .z-min-1-i, .z-index-min-1-i {
+    z-index: -1 !important;
+  }
+  .z-0, .z-index-0 {
+      z-index:0;
+  }
+  .z-0-i, .z-index-0-i {
+    z-index: 0 !important;
+  }
+  .z-1, .z-index-1 {
+      z-index:1;
+  }
+  .z-1-i, .z-index-1-i {
+    z-index: 1 !important;
+  }
+  .z-2, .z-index-2 {
+      z-index:2;
+  }
+  .z-2-i, .z-index-2-i {
+    z-index: 2 !important;
+  }
+  .z-3, .z-index-3 {
+      z-index:3;
+  }
+  .z-3-i, .z-index-3-i {
+    z-index: 3 !important;
+  }
+  .z-4, .z-index-4 {
+    z-index: 4;
+  }
+  .z-4-i, .z-index-4-i {
+    z-index: 4 !important;
+  }
+  
+  .z-5, .z-index-5 {
+    z-index: 5;
+  }
+  .z-5-i, .z-index-5-i {
+    z-index: 5 !important;
+  }
+  .z-9, .z-index-9 {
+    z-index: 9;
+  }
+  .z-9-i, .z-index-9-i {
+    z-index: 9 !important;
+  }
+  
+  .z-99, .z-index-99 {
+    z-index: 99;
+  }
+  .z-99-i, .z-index-99-i {
+    z-index: 99 !important;
+  }
+  
+  .z-999, .z-index-999 {
+    z-index: 999;
+  }
+  .z-999-i, .z-index-999-i {
+    z-index: 999 !important;
+  }
+  
+  .z-9999, .z-index-9999 {
+    z-index: 9999;
+  }
+  .z-9999-i, .z-index-9999-i {
+    z-index: 9999 !important;
+  }
+  
+  .z-999999, .z-index-999999 {
+    z-index: 999999;
+  }
+  .z-999999-i, .z-index-999999-i {
+    z-index: 999999 !important;
+  }
+  
